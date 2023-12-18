@@ -1,0 +1,8 @@
+<?
+return 
+[
+	'slider'=>'Slider'
+]
+
+
+?>

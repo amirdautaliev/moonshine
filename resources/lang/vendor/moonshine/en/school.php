@@ -1,0 +1,5 @@
+<?
+return [
+	'school'=>'school'
+]
+?>
